@@ -23,7 +23,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="container header-content">
-          <div className="logo">Sáng thứ tư ca 2</div>
+          <div className="logo">Hello</div>
           <nav className="nav">
             <a href="#">Thời sự</a>
             <a href="#">Công nghệ</a>
@@ -45,7 +45,7 @@ function App() {
             <div className="featured-content">
               <span className="tag">Nóng hổi</span>
               <h1>Thiên nhiên đẹp</h1>
-              <p>Sự kiện quy tụ hàng chục sinh viên không làm được bài OSS...</p>
+              <p>Nhìn kỹ thì chắc không có thật</p>
               <br/>
               <a href="#" className="read-more">Đọc tiếp →</a>
             </div>
