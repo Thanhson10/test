@@ -23,7 +23,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="container header-content">
-          <div className="logo">Chiều thứ Hai - ca3</div>
+          <div className="logo">Sáng thứ tư ca 2</div>
           <nav className="nav">
             <a href="#">Thời sự</a>
             <a href="#">Công nghệ</a>
@@ -38,13 +38,13 @@ function App() {
         <section className="featured-section">
           <div className="featured-card">
             <img 
-              src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000" 
+              src="https://scr.vn/wp-content/uploads/2020/07/H%C3%ACnh-%E1%BA%A3nh-phong-c%E1%BA%A3nh-y%C3%AAn-b%C3%ACnh.jpg" 
               alt="Featured" 
               className="featured-image" 
             />
             <div className="featured-content">
               <span className="tag">Nóng hổi</span>
-              <h1>Tổng kết sự kiện công nghệ lớn nhất năm 2025</h1>
+              <h1>Thiên nhiên đẹp</h1>
               <p>Sự kiện quy tụ hàng chục sinh viên không làm được bài OSS...</p>
               <br/>
               <a href="#" className="read-more">Đọc tiếp →</a>
