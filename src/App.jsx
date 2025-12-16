@@ -9,7 +9,7 @@ function App() {
 
   // Gọi API từ Backend khi web vừa tải xong
   useEffect(() => {
-    fetch('https://backend-news-usr6.onrender.com/api/news')
+    fetch('https://backend-news-3im2.onrender.com/api/news')
       .then(response => response.json())
       .then(data => {
         console.log("Dữ liệu tải về:", data);
